@@ -1,0 +1,29 @@
+body{
+    background-color: beige;
+}
+h1{
+        color: red;
+        text-align: center;
+        text-decoration: underline;
+}
+h2 {
+  text-decoration: underline;
+}
+li{font-size: medium}
+div{font-size: large;text-decoration: underline;}
+img.obrazek1, img.obrazek2, img.obrazek3 {
+        width:300px;
+        height:200px;
+    }
+    table {
+                 padding: 5px; border-spacing: 0px; width: 100%;
+         }
+    td {
+        width: 75px;
+        height: 50px;
+        text-align: center;
+        border: 1px solid black;
+    }
+    td.test1 {color: red;
+             background-color: blue;
+    }
